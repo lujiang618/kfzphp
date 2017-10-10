@@ -1,0 +1,18 @@
+
+项目结构
+    |_ application 应用
+    |    |_ common 公共
+    |    |    |_ controller 公共控制器
+    |    |    |_ model 公共模型
+    |    |_ config 配置文件
+    |    |_ function 函数
+    |    |_ library 类库
+    |    |_ module 模块
+    |_ command 命令行
+    |_ readme 文档
+    |_ runtime 运行文件
+    |_ template 模板文件
+    |_ web
+        |_ public 静态文件
+        |_ upload 上传文件
+
